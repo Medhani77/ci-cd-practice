@@ -1,0 +1,6 @@
+projectKey=SLT-Test-Project
+serverUrl=http://localhost:9000
+serverVersion=26.7.0.124771
+dashboardUrl=http://localhost:9000/dashboard?id=SLT-Test-Project
+ceTaskId=5a0457c3-c0ad-413f-8fc9-c528259bd946
+ceTaskUrl=http://localhost:9000/api/ce/task?id=5a0457c3-c0ad-413f-8fc9-c528259bd946
